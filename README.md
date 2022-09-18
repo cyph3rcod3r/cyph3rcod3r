@@ -1,4 +1,34 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://avatars.githubusercontent.com/u/13975996?v=4" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://stackoverflow.com/users/1986282/dr-andro" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=1986282" />
+</a>
+  <a href="https://twitter.com/PankajS1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyph3rcod3r&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div id="repos" align="center">
+  <br>
+  <a href="https://github.com/cyph3rcod3r/Lemon"><img src="https://github.com/cyph3rcod3r/Lemon/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Lemon" width="200"></a>
+   &emsp;
+<a href="https://github.com/cyph3rcod3r/FashionStore"><img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Fashion-Store" width="200"></a>
+ &emsp;
+<a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="200"></a>
+</div>
 
 <!--
 **cyph3rcod3r/cyph3rcod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
