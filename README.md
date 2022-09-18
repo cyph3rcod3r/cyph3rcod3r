@@ -30,6 +30,11 @@ src="https://stackoverflow-badge.vercel.app/?userID=1986282" />
 <a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="200"></a>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyph3rcod3r&theme=dark&background=000000)](https://git.io/streak-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyph3rcod3r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **cyph3rcod3r/cyph3rcod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
