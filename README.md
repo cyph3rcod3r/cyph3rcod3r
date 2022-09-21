@@ -1,7 +1,3 @@
-<a href="https://makers.appwrite.io/cyph3rcod3r">
-    <img src="https://appwrite.io/cards/makers/cyph3rcod3r" alt="cyph3rcod3r's Maker Card" />
-</a>
-
 <div id="badges" align="center">
   <a href="https://stackoverflow.com/users/1986282/dr-andro" target="_blank">
 <img alt="StackOverflow"
@@ -34,6 +30,9 @@ src="https://stackoverflow-badge.vercel.app/?userID=1986282" />
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyph3rcod3r&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyph3rcod3r&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://makers.appwrite.io/cyph3rcod3r">
+    <img src="https://appwrite.io/cards/makers/cyph3rcod3r" alt="cyph3rcod3r's Maker Card" />
+</a>
 
 
 <!--
