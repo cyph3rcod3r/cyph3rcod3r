@@ -24,12 +24,12 @@ src="https://stackoverflow-badge.vercel.app/?userID=1986282" />
 
 <div id="repos" align="center">
   <br>
-  <a href="https://github.com/cyph3rcod3r/Lemon"><img src="https://github.com/cyph3rcod3r/Lemon/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Lemon" width="200"></a>
+  <a href="https://github.com/cyph3rcod3r/Lemon"><img src="https://github.com/cyph3rcod3r/Lemon/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Lemon" width="150"></a>
    &emsp;
-<a href="https://github.com/cyph3rcod3r/FashionStore"><img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Fashion-Store" width="200"></a>
+<a href="https://github.com/cyph3rcod3r/FashionStore"><img src="https://github.com/cyph3rcod3r/FashionStore/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Fashion-Store" width="150"></a>
  &emsp;
-<a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="200"></a>
-<a href="https://github.com/cyph3rcod3r/Tinder-Like"><img src="https://github.com/cyph3rcod3r/Tinder-Like/blob/master/app/src/main/res/drawable-v24/tinder.png" alt="Tinder-Like" width="200"></a>
+<a href="https://github.com/cyph3rcod3r/Nike-Store"><img src="https://github.com/cyph3rcod3r/Nike-Store/blob/master/app/src/main/res/drawable/nike.png" alt="Nike-Store" width="150"></a>
+<a href="https://github.com/cyph3rcod3r/Tinder-Like"><img src="https://github.com/cyph3rcod3r/Tinder-Like/blob/master/app/src/main/res/drawable-v24/tinder.png" alt="Tinder-Like" width="150"></a>
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyph3rcod3r&theme=dark&background=000000)](https://git.io/streak-stats)
