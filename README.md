@@ -1,6 +1,8 @@
+<div id="maker" align="center">
 <a href="https://makers.appwrite.io/cyph3rcod3r">
-    <img src="https://appwrite.io/cards/makers/cyph3rcod3r" alt="cyph3rcod3r's Maker Card" width="200"/>
+    <img src="https://appwrite.io/cards/makers/cyph3rcod3r" alt="cyph3rcod3r's Maker Card" width="300"/>
 </a>
+</div>
 <div id="badges" align="center">
   <a href="https://stackoverflow.com/users/1986282/dr-andro" target="_blank">
 <img alt="StackOverflow"
